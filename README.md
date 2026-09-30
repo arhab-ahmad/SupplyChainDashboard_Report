@@ -34,7 +34,7 @@ Which suppliers deliver the most volume and revenue, which are fastest, and wher
 Power BI, DAX, Power Query, Excel
 
 ## Files
-- `/Report`: dashboard images
+   ![Supply Chain Dashboard](Supplychainproject_Report.pdf)
 - `Supply_Chain_Management_Dataset_200_Rows.xlsx`: source data
 
 ## Author
