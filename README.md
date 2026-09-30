@@ -1,5 +1,7 @@
 # Supply Chain Performance Dashboard | Power BI
 
+   ![Supply Chain Dashboard](Supplychainproject_Report-1.png)
+
 An interactive Power BI dashboard that analyzes supplier performance, cost, lead time and product quality across a supply chain, so that procurement decisions can be made from data rather than guesswork.
 
 ## Business Problem
@@ -34,7 +36,6 @@ Which suppliers deliver the most volume and revenue, which are fastest, and wher
 Power BI, DAX, Power Query, Excel
 
 ## Files
-   ![Supply Chain Dashboard](Supplychainproject_Report.pdf)
 - `Supply_Chain_Management_Dataset_200_Rows.xlsx`: source data
 
 ## Author
